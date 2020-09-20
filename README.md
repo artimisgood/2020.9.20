@@ -34,9 +34,10 @@ rev = temp;
 幸运的是，事先检查这个语句是否会导致溢出很容易。
 
 为了便于解释，我们假设rev是正数。
+![](https://github.com/artimisgood/2020.9.20/blob/master/5.png?raw=true)
 
 当 rev负时可以应用类似的逻辑。
-```
+
 ### 代码
 ```c++
 class Solution {
